@@ -15,3 +15,4 @@ The project tasks are organized, tracked and completed through iterative develop
 
 ## Objective
 To understand GitHub repository management, documentation, version control and collaboration.
+This project follows iterative Agile development and continuous improvement.
